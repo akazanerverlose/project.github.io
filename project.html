@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>cherzzz.io</title>
+    <link rel="stylesheet" href="project.css" />
+    <link rel="stylesheet" href="cplab.css">
+  </head>
+  <body>
+    <img style="width: 1280px; height: 110px" src="banner.jpg" alt="" />
+    <ul>
+      <li><a href="">Home</a></li>
+      <li><a href="./new.html">New</a></li>
+      <li><a href="./facultymembers.html">Faculty Members</a></li>
+      <li><a href="">Professional Training</a></li>
+      <li>
+        <a href="">Degree Programs</a>
+        <ul class="dropdown">
+          <li>
+            <a href="./it.html">Information Technology since 2003</a>
+          </li>
+          <li><a href="./cp.html">Computer Science</a></li>
+          <li><a href="el.html">Electronics and Telecommunications since 2003</a></li>
+          <li><a href="gp.html">Graphic Design and Multimedia new 2025</a></li>
+          <li>
+            <a href="bs.html">Business Management Information Technology new 2025</a>
+          </li>
+          <li>
+            <a href="ne.html">Network Engineering and Cyber Security new 2025</a>
+          </li>
+          <li>
+            <a href="dt.html">Data Science and Artificial Intelligence new 2025</a>
+          </li>
+        </ul>
+      </li>
+      <li><a href="cplab.html">Computer Lab</a>
+        <ul class="dropdown-1">
+          <li><a href="">Multimedia Lab</a></li>
+          <li><a href="">E-Learing Lab</a></li>
+          <li><a href="">Networking Lab</a></li>
+          <li><a href="">IT Center Lab</a></li>
+        </ul>
+      </li>
+    </ul>
+    <p style="font-family: Khmer OS Battambang">
+      ស្វាគមន៍មកកាន់មហាវិទ្យាល័យវិទ្យាសាស្ត្រ​ និង​
+      បច្ចេកវិទ្យានៃសកលវិទ្យាល័យកម្ពុជា។ សម្រាប់ប្អូនៗសិស្សានុសិស្ស
+      ដែលមានបំណងចង់បន្តការសិស្សាថ្នាក់បរិញ្ញាបត្ររង​ និងថ្នាក់បរិញ្ញាបត្រ។
+      សូមចុះឈ្មោះជាមួយយើងអីឡូវនេះ ឬអាចអញ្ញើញមកកាន់សកលវិទ្យាល័យផ្ទាល់បាន។ Welcome
+      to College of Science and Technology of The University of Cambodia. For
+      everyone who wishes to pursue for any AA and BA degrees of the study
+      programs, please register now or visit the campus of The University of
+      Cambodia.
+    </p>
+    <img
+      style="width: 400px; height: 270px;"
+      src="img1.jpg"
+      alt=""
+    />
+    <img
+      style="width: 400px; height: 270px;"
+      src="img2.jpg"
+      alt=""
+    />
+    <img
+      style="width: 400px; height: 270px;"
+      src="img3.jpg"
+      alt=""
+    />
+    <h2 style="background-color: blue; color: white; width: 1230px;font-size: 30px;">
+      <marquee behavior="scroll" scrollamount="9" direction="left"
+        ><img
+          style="width: 130px; height: 35px"
+          src="cost2.jpg"
+          alt="marguee"
+        />ស្វាគមន៍!! IT EXPERT College Science and Technology</marquee
+      >
+    </h2>
+  </body>
+</html>
+  </body>
+</html>
